@@ -4,24 +4,6 @@
 ![Title Image](static/img/AI_EVM.png)
 
 <br>
-
-## Demo
-
-Click to watch full demo (by Satyendra Yadav) <br>
-
-[![Intro](Demo.gif)](https://drive.google.com/file/d/1QwlWrVxVcpSU3ffnwAzOTcl1Q1ggCN-T/view?usp=sharing)
-
-<br>
-
-## Team
-- Mohith Kune (me)
-- Satyendra Yadav
-- Venkatesh Vutukuri
-- Ankit Chouhan
-- Pooja Yadav
-
-<br>
-
 ## Introduction
 
 Most of the sectors have been automated these days but the Voting process has stayed un-updated for years. We propose to leverage AI and use it with EVMs to bring revolution to the voting process.
